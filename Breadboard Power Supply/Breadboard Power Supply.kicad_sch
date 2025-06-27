@@ -2022,7 +2022,7 @@
 		)
 		(uuid "4aed0d17-572d-4097-a178-10e8d5eaf6f5")
 	)
-	(text "GND (Pin 1)"
+	(text "GND"
 		(exclude_from_sim no)
 		(at 210.82 137.16 0)
 		(effects
@@ -2042,7 +2042,7 @@
 		)
 		(uuid "59f1a67f-6ce8-42e8-ac25-955b28a6961a")
 	)
-	(text "GND (Pin 1)"
+	(text "GND"
 		(exclude_from_sim no)
 		(at 210.82 81.28 0)
 		(effects
@@ -2716,7 +2716,7 @@
 		)
 		(uuid "0a9cd1c9-d9de-478b-859a-4de5f8529a0a")
 	)
-	(label "3.3V"
+	(label "3V3"
 		(at 132.08 101.6 0)
 		(effects
 			(font
@@ -2766,7 +2766,7 @@
 		)
 		(uuid "86186b6e-a650-4d7f-ae87-06c7a5e60e6a")
 	)
-	(label "3.3V"
+	(label "3V3"
 		(at 208.28 60.96 180)
 		(effects
 			(font
@@ -2806,7 +2806,7 @@
 		)
 		(uuid "ca984223-3481-4828-8089-5184ebd70460")
 	)
-	(label "3.3V"
+	(label "3V3"
 		(at 208.28 116.84 180)
 		(effects
 			(font
